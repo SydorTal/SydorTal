@@ -1,0 +1,27 @@
+# Author: SydorTal
+# facebook: https://www.facebook.com/sydortal.berk.7/
+# Date: 2016/09/08
+# Infected File: Script 
+# Category: webapps/php
+# Google dork: intext:Site By Abcmedya 
+ 
+ 
+# Exploit & POC :
+ 
+example:http://www.nevsehirkarapinar.bel.tr/
+example:http://www.alfa-azirai.com.tr/
+ 
+#Admin's Panel:
+http://www.alfa-azirai.com.tr/admin/
+or
+http://www.nevsehirkarapinar.bel.tr/admin/
+ 
+# Live Target
+ 
+admins login info:
+Kullanıcı adı :abcmedya
+Şifre:9731054782
+ 
+############################################################
+ 
+#  [2016-09-08]  #
